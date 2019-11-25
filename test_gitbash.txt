@@ -1,1 +1,2 @@
-Testing GitBash
+Testing GitBash - "First Commit"
+Testing GitBash - "Second Commit"
